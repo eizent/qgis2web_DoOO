@@ -9,10 +9,15 @@ To follow this tutorial you will need:
 ## Log into Domain of One's Own
 Once you have your exported qgis2web files in one folder save on your computer, zip all the files into one folder. This zipped folder will be uploaded to your domain. The exported project should contain an index.html file, as well as other folders including css, js, legends, markers, webfonts, images and data. Once you have all your files in order, log into your Bryn Mawr Domain of One's own account. 
 
-## Scroll down to the File Manager on DoOO
+## Scroll down to the File section on DoOO
 The screen should look like this:
 
-![screenshot showing the File Manager page on Domain of One's Own](images/file_manager.png)
+![screenshot showing the File section page on Domain of One's Own](images/file_manager.png)
+
+Navigate to the File Manager.
+
+## Go to the public_html folder
+After clicking on the File Manager section, it should bring you to the File Manager dashboard:
+![screenshot showing the File Manager dashboard](images/file_dash.png)
 
 
-## 
