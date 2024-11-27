@@ -20,4 +20,10 @@ Navigate to the File Manager.
 After clicking on the File Manager section, it should bring you to the File Manager dashboard:
 ![screenshot showing the File Manager dashboard](images/file_dash.png)
 
+Click on the public_html section of the dashboard. This folder contains all of the pages that are public and available on the web on your domain. For example, if you have WordPress or Scalar applications connected to your account, they folders containing that data will show up here. Additionally, the names of the folders that you create within the public_html section become part of the public url where people will access your sites. For example, in the above image, you can see a folder called 'groningen', this folder corresponds to the page eizent.digital.brynmawr.edu/groningen/. 
+
+**Note** eizent is the domain name that I have chosen, so your url path will be domainName.digital.brynmawr.edu/folderName
+
+
+
 
